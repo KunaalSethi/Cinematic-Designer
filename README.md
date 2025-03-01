@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kunal Lunial Sethi | Cinematic Designer</title>
-    <link rel="stylesheet" href="website.css">
-    <script defer src="website.js"></script>
+    <link rel="stylesheet" href="Website.css">
+    <script defer src="Website.js"></script>
 </head>
 <body>
     <!-- Preloader -->

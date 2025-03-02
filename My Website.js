@@ -26,4 +26,8 @@ document.addEventListener("DOMContentLoaded", function () {
       document.querySelector(".hero-video").style.transform = `translateY(${scrollPosition * 0.2}px)`;
     });
   });
+  function toggleMenu() {
+    const navMenu = document.getElementById("navMenu");
+    navMenu.classList.toggle("show");
+  }
   
